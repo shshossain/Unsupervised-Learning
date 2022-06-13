@@ -1,5 +1,4 @@
 # Unsupervised-Learning
-Data Science 3 Unsupervised Learning
 This repository contains the unsupervised learning assigment using the "primates-morphology.csv" file. Utilizing unsupervised learning techniques, I tried to find which technique is best for clustering according to species.
 
 # Libraries used:
