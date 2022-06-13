@@ -14,7 +14,7 @@ This repository contains the unsupervised learning assigment using the "primates
   * Yellowbrick
 
 # Files:
-* Final_Assignment.ipynb: File that contains code for data analysis,visualization and clustering methods.
+* Final Assignment.ipynb: File that contains code for data analysis,visualization and clustering methods.
 * Data : primates_morphology.csv
 
 # Author
