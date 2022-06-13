@@ -3,15 +3,15 @@ Data Science 3 Unsupervised Learning
 This repository contains the unsupervised learning assigment using the "primates-morphology.csv" file. Utilizing unsupervised learning techniques, I tried to find which technique is best for clustering according to species.
 
 # Libraries used:
-* Python
-• Pandas
-• Numpy
-• Sklearn
-• Matplotlib
-• Scipy
-• Seaborn
-* Plotly
-* Yellowbrick
+* Python<br/>
+• Pandas<br/>
+• Numpy<br/>
+• Sklearn<br/>
+• Matplotlib<br/>
+• Scipy<br/>
+• Seaborn<br/>
+* Plotly<br/>
+* Yellowbrick<br/>
 
 # Files:
 * Final_Assignment.ipynb: File that contains code for data analysis,visualization and clustering methods.
