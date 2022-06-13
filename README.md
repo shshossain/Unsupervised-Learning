@@ -4,12 +4,12 @@ This repository contains the unsupervised learning assigment using the "primates
 
 # Libraries used:
   * Python
-  • Pandas
-  • Numpy
-  • Sklearn
-  • Matplotlib
-  • Scipy
-  • Seaborn
+  * Pandas
+  * Numpy
+  * Sklearn
+  * Matplotlib
+  * Scipy
+  * Seaborn
   * Plotly
   * Yellowbrick
 
